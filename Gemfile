@@ -10,3 +10,6 @@ group :development do
 end
 
 gem "dotenv"
+
+# For twitter
+gem "mechanize"
