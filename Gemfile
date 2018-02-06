@@ -13,3 +13,5 @@ gem "dotenv"
 
 # For twitter
 gem "mechanize"
+
+gem "google-cloud-bigquery"
